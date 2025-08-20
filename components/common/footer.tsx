@@ -12,7 +12,7 @@ export default function Footer() {
         </div>
 
         {/* Navigation */}
-        <div className="flex flex-col md:flex-row gap-5 ml-18 text-gray-600 text-sm">
+        <div className="flex flex-row gap-5 ml-0 md:ml-18 text-gray-600 text-sm">
           <NavLink href="/">Home</NavLink>
           <NavLink href="/#pricing">Pricing</NavLink>
           <span className="cursor-pointer hover:text-gray-900 transition-colors duration-200">
