@@ -39,7 +39,7 @@ export default function HeroSection() {
       <div>
         <Button
           variant="link"
-          className="text-white mt-6 text-base sm:text-lg lg:text-xl rounded-full px-8 sm:px-10 lg:px-12 py-6 sm:py-7 lg:py-8 bg-linear-to-r from-indigo-500 to-purple-500 hover:from-slate-900 hover:to-rose-500 hover:no-underline font-bold-lg transition-all duration-300"
+          className="text-white mt-6 text-base sm:text-lg lg:text-xl rounded-full px-8 sm:px-10 lg:px-12 py-6 sm:py-7 lg:py-8 bg-linear-to-r from-rose-600 to-blue-950 hover:from-blue-950 hover:to-rose-600 hover:no-underline font-bold-lg transition-all duration-300"
         >
           <Link href="/#pricing" className="flex gap-2 items-center">
             <span>Try PDFly.ai</span>
